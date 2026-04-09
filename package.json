@@ -33,6 +33,7 @@
   "pi": {
     "extensions": [
       "./index.ts"
-    ]
+    ],
+    "video": "https://github.com/user-attachments/assets/1a9fc348-19bc-489b-9de9-bb329728d234"
   }
 }
